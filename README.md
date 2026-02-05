@@ -2,11 +2,11 @@
 Modern LMS dashboard redesign with progress tracking, recommendations, and dark/light mode.
 
 ## LMS Light Version
-
+![LMS Light Dashboard](LMS-Light-Version.png)
 ---
 
 ## LMS Dark Version
-
+![LMS Dark Dashboard](LMS-Dark-Version.png)
 ---
 
 ## Prototype
